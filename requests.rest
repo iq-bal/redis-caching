@@ -1,0 +1,7 @@
+GET http://localhost:3002/photos
+
+###
+GET http://localhost:3002/photos?albumId=2
+
+###
+GET http://localhost:3002/photos/2
